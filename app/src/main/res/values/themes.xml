@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--este estilo de tema personalizado llamado "Theme.Snake" se utiliza para cambiar el color
+de la barra de navegación y la barra de estado a un tono de verde específico en la aplicación Android.-->
+<resources>
+    <style name="Theme.Snake" parent="android:Theme.Material.Light.NoActionBar">
+        <!--El primer elemento <item> tiene el nombre "android:navigationBarColor" y se le asigna el valor
+        #8DA25A. Este atributo se utiliza para establecer el color de la barra de navegación (la barra en
+        la parte inferior de la pantalla en dispositivos Android) en el valor hexadecimal #8DA25A, que corresponde
+        a un tono de verde.-->
+        <item name="android:navigationBarColor">#8DA25A</item>
+
+        <!--El segundo elemento <item> tiene el nombre "android:statusBarColor" y se le asigna el valor #8DA25A.
+        Este atributo se utiliza para establecer el color de la barra de estado (la barra en la parte superior de
+        la pantalla que muestra la hora, la señal y otra información) en el valor hexadecimal #8DA25A, que también
+        corresponde a un tono de verde.-->
+        <item name="android:statusBarColor">#8DA25A</item>
+    </style>
+</resources>

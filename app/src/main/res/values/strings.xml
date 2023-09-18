@@ -1,0 +1,53 @@
+<!--Estas cadenas de texto se utilizan en la aplicación para mostrar mensajes, títulos, opciones de menú y otras partes de la interfaz de usuario.-->
+<resources>
+    <!--Nombre_App: Es una cadena que representa el nombre de la aplicación "Snake".-->
+    <string name="Nombre_App">Snake</string>
+
+    <!--Nombre_Jugador_Defecto: Es una cadena que contiene el nombre predeterminado del jugador, en este caso "Player 1".-->
+    <string name="Nombre_Jugador_Defecto">Player 1</string>
+
+    <!--Sobre_El_Juego: Es una cadena que describe brevemente el juego de Snake y destaca una función adicional que permite jugar utilizando el giroscopio.-->
+    <string name="Sobre_El_Juego">Esta versión mejorada del clásico juego de Snake incluye una función adicional que te permite jugar utilizando el giroscopio. Ahora podrás disfrutar de una experiencia de juego más inmersiva al mover tu dispositivo para controlar la serpiente en pantalla. ¡Diviértete mientras deslizas y giras tu dispositivo para recoger los alimentos y hacer crecer a la serpiente sin chocar contra los bordes o a ti mismo! ¿Estás listo para aceptar el desafío?</string>
+
+    <!--source_code: Es una cadena que indica la opción de ver el proyecto original del juego.-->
+    <string name="source_code">Ver proyecto original</string>
+
+    <!--Sobre_Titulo: Es una cadena que representa el título de la sección "Sobre el juego".-->
+    <string name="Sobre_Titulo">Sobre el juego…</string>
+
+    <!--Fin_Partida: Es una cadena que se muestra cuando la partida termina y el jugador ha chocado contra sí mismo.-->
+    <string name="Fin_Partida">Viejo baboso, te mordiste la cola!</string>
+
+    <!--Tu_Puntuaje: Es una cadena que muestra el puntaje final del jugador. El %s se usa como marcador de posición para el valor del puntaje.-->
+    <string name="Tu_Puntuaje">Tú puntuaje final es: %s</string>
+
+    <!--Intentar_Nuevamente: Es una cadena que indica la opción de intentar nuevamente.-->
+    <string name="Intentar_Nuevamente">Intentar nuevamente</string>
+
+    <!--Tabla_Puntuaciones: Es una cadena que representa el título de la sección de la tabla de puntuaciones.-->
+    <string name="Tabla_Puntuaciones">Tabla De Posiciones</string>
+
+    <!--Nombre_Jugador: Es una cadena que indica el título de la columna "Nombre Jugador" en la tabla de puntuaciones.-->
+    <string name="Nombre_Jugador">Nombre Jugador</string>
+
+    <!--Puntuacion: Es una cadena que indica el título de la columna "Puntuación" en la tabla de puntuaciones.-->
+    <string name="Puntuacion">Puntuación</string>
+
+    <!--Nueva_Partida: Es una cadena que representa la opción de comenzar una nueva partida.-->
+    <string name="Nueva_Partida">Nueva Partida</string>
+
+    <!--Configuracion: Es una cadena que representa la opción de acceder a la configuración del juego.-->
+    <string name="Configuracion">Configuración</string>
+
+    <!--Sobre: Es una cadena que representa la opción de acceder a la sección "Sobre el juego".-->
+    <string name="Sobre">Sobre el juego</string>
+
+    <!--Configuracion_Titulo: Es una cadena que representa el título de la sección de configuración.-->
+    <string name="Configuracion_Titulo">Configuración</string>
+
+    <!--Guardar: Es una cadena que indica la opción de guardar el nombre del jugador.-->
+    <string name="Guardar">Guardar Nombre</string>
+
+    <!--Nombre_Jugador_Actualizado: Es una cadena que se muestra cuando se actualiza correctamente el nombre del jugador.-->
+    <string name="Nombre_Jugador_Actualizado">Nombre De Jugador Actualizado</string>
+</resources>
