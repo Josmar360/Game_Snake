@@ -13,34 +13,18 @@ Blog Post: https://medium.com/@themukeshsolanki/classic-snake-game-with-jetpack-
 The project should compile properly no additional steps needed
 
 ## Author
-Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)
+Autor Original: [Mukesh Solanki](https://www.github.com/mukeshsolanki)
 
 ## Contribution
 [![GitHub contributors](https://img.shields.io/github/contributors/mukeshsolanki/snake-game-android.svg)](https://github.com/mukeshsolanki/snake-game-android/graphs/contributors)
 
-* Bug reports and pull requests are welcome.
 
-## License
 ```
-MIT License
+El siguiente repositorio presenta un videojuego ampliamente reconocido llamado "Snake".
+En este juego, el objetivo principal es crecer sin morder ninguna parte de su propio cuerpo.
+Es importante señalar que este código no ha sido desarrollado desde cero, sino que se basa en la idea original de Mukesh Solanki.
+En esta versión particular, se ha realizado una modificación para permitir el control del juego a través del giroscopio, eliminando la necesidad de utilizar botones.
 
-Copyright (c) 2018 Mukesh Solanki
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Todos los derechos reservador a Mukesh Solanki
+GitHub de Munkesh Solanki: https://www.github.com/mukeshsolanki
 ```
