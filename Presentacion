@@ -1,0 +1,4 @@
+El siguiente repositorio presenta un videojuego ampliamente reconocido llamado "Snake". 
+En este juego, el objetivo principal es crecer sin morder ninguna parte de su propio cuerpo. 
+Es importante señalar que este código no ha sido desarrollado desde cero, sino que se basa en la idea original de Mukesh Solanki. 
+En esta versión particular, se ha realizado una modificación para permitir el control del juego a través del giroscopio, eliminando la necesidad de utilizar botones.
